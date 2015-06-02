@@ -2,7 +2,6 @@ package org.lightadmin;
 
 import org.lightadmin.util.ExtendedWebDriver;
 import org.lightadmin.util.ExtendedWebDriverImpl;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
 import java.net.URL;
